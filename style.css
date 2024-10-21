@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: rgba(255, 105, 180, 1);
+}
+
+main section#primeiro{
+    background-color: rgba(255, 217, 236, 1);
+
+}
+
+section.segundo{
+    background-color: rgba(255, 105, 180, 1);
+}
+section.terceiro{
+    background-color: rgba(255, 217, 236, 1);
+}
+
+footer{
+    background-color: rgba(255, 105, 180, 1); 
+}
