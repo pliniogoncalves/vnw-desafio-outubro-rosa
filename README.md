@@ -11,7 +11,7 @@ Neste desafio, você será responsável por desenvolver um site utilizando HTML 
 
 ## 🎨 Instruções
 
-1. **Design no Figma**: Acesse o design fornecido e siga todos os detalhes e elementos gráficos com atenção.
+1. **Design no Figma**: Acesse o design fornecido [aqui](https://www.figma.com/design/uZ6M7IREptS0fR2RYHZOMp/Desafio-2-Empower?node-id=0-1&node-type=canvas&t=ZA6oqEyeVJVBQxVd-0) e siga todos os detalhes e elementos gráficos com atenção.
 2. **Estrutura do Projeto**: Crie uma estrutura de arquivos organizada. Utilize boas práticas de codificação, como a semântica HTML e a modularização do SASS.
 3. **Desenvolvimento**: Construa o site de acordo com o layout definido. Certifique-se de que a responsividade e a acessibilidade sejam consideradas.
 4. **Teste**: Revise seu código, teste a funcionalidade e faça ajustes conforme necessário.
